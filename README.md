@@ -1,1 +1,1 @@
-# WP-CW08-React
+# wp-cw08-react
