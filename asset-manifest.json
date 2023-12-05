@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/abhee1/WP-CW08-React/static/css/main.9fa323b1.css",
-    "main.js": "/abhee1/WP-CW08-React/static/js/main.81dfe107.js",
-    "static/js/787.d53de0fc.chunk.js": "/abhee1/WP-CW08-React/static/js/787.d53de0fc.chunk.js",
-    "index.html": "/abhee1/WP-CW08-React/index.html",
-    "main.9fa323b1.css.map": "/abhee1/WP-CW08-React/static/css/main.9fa323b1.css.map",
-    "main.81dfe107.js.map": "/abhee1/WP-CW08-React/static/js/main.81dfe107.js.map",
-    "787.d53de0fc.chunk.js.map": "/abhee1/WP-CW08-React/static/js/787.d53de0fc.chunk.js.map"
+    "main.css": "/wp-cw08-react/static/css/main.9fa323b1.css",
+    "main.js": "/wp-cw08-react/static/js/main.92034d0d.js",
+    "static/js/787.d53de0fc.chunk.js": "/wp-cw08-react/static/js/787.d53de0fc.chunk.js",
+    "index.html": "/wp-cw08-react/index.html",
+    "main.9fa323b1.css.map": "/wp-cw08-react/static/css/main.9fa323b1.css.map",
+    "main.92034d0d.js.map": "/wp-cw08-react/static/js/main.92034d0d.js.map",
+    "787.d53de0fc.chunk.js.map": "/wp-cw08-react/static/js/787.d53de0fc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9fa323b1.css",
-    "static/js/main.81dfe107.js"
+    "static/js/main.92034d0d.js"
   ]
 }
